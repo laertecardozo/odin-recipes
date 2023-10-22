@@ -1,0 +1,48 @@
+body {
+    background: url(./images/office-supplies-with-keyboard-gray-desk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    height: auto;
+    width: 500px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 15px black;
+    margin: 80px auto;
+    background-color: teal;
+    padding-bottom: 50px;
+    border-left: 25px solid rgb(0, 109, 109);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 70px;
+    font-family: 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+
+ul {
+    background-color: beige;
+    border-radius: 10px;
+    height: auto;
+    margin: 0 50px;
+    list-style-type: none;
+    padding: 0;
+    box-shadow: 1px 1px 2px black;
+}
+
+li {
+    margin-bottom: 20px;
+    padding: 30px 0;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: 'Courier New', monospace;
+    font-size: 22px;
+}
